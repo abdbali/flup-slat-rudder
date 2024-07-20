@@ -1,5 +1,8 @@
 # flup-slat-rudder
 
+![image](https://github.com/user-attachments/assets/6e8a87ec-091c-46a1-80ee-ad245665a293)
+![image](https://github.com/user-attachments/assets/2e572b37-d047-4225-bc5c-6dab7d4ef2d5)
+
 
 
 Flap (Flaplar):
